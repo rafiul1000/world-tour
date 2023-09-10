@@ -29,7 +29,7 @@ const Countries = () => {
   }
 
 
-//   remove item from an array in a state
+// remove item from an array in a state
 // use filters to select all the elements except the one you want to remove
 
   return (
